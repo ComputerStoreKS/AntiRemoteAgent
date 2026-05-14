@@ -17,7 +17,7 @@
 
 AntiRemoteAgent is a Windows security application built to stop one of the most damaging scams targeting everyday computer users: the **tech-support scam**, where a criminal on the phone or a fake "virus warning" convinces someone to hand over remote control of their PC.
 
-Once a scammer has remote access, they can drain bank accounts, install malware, steal personal files, and lock the victim out of their own machine — all while the victim watches. Anti-Remote Agent is designed to shut that door before it opens, and to keep it shut.
+Once a scammer has remote access, they can drain bank accounts, install malware, steal personal files, and lock the victim out of their own machine — all while the victim watches. AntiRemoteAgent is designed to shut that door before it opens, and to keep it shut.
 
 It runs quietly in the background, protecting the computer around the clock without getting in the way.
 
