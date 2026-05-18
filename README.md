@@ -7,7 +7,7 @@
 **A security tool from Computer Store Kansas**
 
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue)]()
-[![Version](https://img.shields.io/badge/version-1.0.1-blue)]()
+[![Version](https://img.shields.io/badge/version-1.0.5-blue)]()
 
 </div>
 
